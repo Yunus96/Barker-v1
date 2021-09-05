@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /api/admin/
+Disallow: /api/events
+Disallow: /deleteAccount
+Disallow: /renderpost
+Disallow: /storage/
+Disallow: /group
+Disallow: /debugger
+Disallow: /profile/*
+Disallow: /test
+Disallow: /settings/edit
+Disallow: /register
+Disallow: /debug
+Disallow: /?aff_id=*[
