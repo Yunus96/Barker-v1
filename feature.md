@@ -9,4 +9,5 @@
   * Upload a custom banner for your profile
 * Profile Picture Upload / unristricted file upload
 * Post / can i delete other users posts
+* Posts / can i find XSS/SSTI
 * image uploading with post / check unristricted file upload
