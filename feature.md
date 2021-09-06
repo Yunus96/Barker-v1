@@ -11,3 +11,4 @@
 * Post / can i delete other users posts
 * Posts / can i find XSS/SSTI
 * image uploading with post / check unristricted file upload
+* Profile / Can i edit others profile
