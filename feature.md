@@ -8,3 +8,4 @@
   * Get a premium icon next to your name
   * Upload a custom banner for your profile
 * Profile Picture Upload / unristricted file upload
+* Post / can i delete other users posts
