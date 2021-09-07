@@ -13,4 +13,5 @@
 * Post / can i delete other users posts (SUCCESSFUL)
 * Posts / can i find XSS/SSTI
 * image uploading with post / check unristricted file upload
-* Profile / Can i edit others profile
+* Profile / Can i edit others profil
+* Can't view private group post / can i view 
