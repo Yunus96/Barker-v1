@@ -15,4 +15,4 @@
 * image uploading with post / check unristricted file upload
 * Profile / Can i edit others profil
 * Can't view private group post / can i view 
-* You need to be group member to post / can i make a post without being a user of a group
+* You need to be group member to post / can i make a post without being a user of a group(group public and joinable)
