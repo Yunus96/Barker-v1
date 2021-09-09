@@ -2,3 +2,4 @@
 
 1. /api/admin/getuser/{username}
 2. /internal/api/getuser
+3. /internal/api/events
