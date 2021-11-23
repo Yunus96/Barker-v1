@@ -2,6 +2,7 @@
 
 1. https://3f0401f45d1d-yunus.a.barker-social.com
 2. https://3f0401f45d1d-yunus.a.barker-social.com.attacker-website.com
+3. Registering domain `3f0401f45d1d-yunus.a.barker-social.com.ATTACKER-WEBSITE.com` resolving it to 127.0.0.1 migh work (to do)
 
 
 
