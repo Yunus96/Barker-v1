@@ -15,3 +15,7 @@
 4. https://localhost
 5. http://3f0401f45d1d-yunus.a.barker-social.com.yunus.com (doesn't allow http. only https)
 6. 3f0401f45d1d-yunus.a.barker-social.com.yunus.com (should be apended by https://)
+7. http://2130706433 
+8. https://2130706433
+9. https://017700000001
+10. http://017700000001
