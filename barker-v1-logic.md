@@ -11,3 +11,4 @@
 #### Logic / Logic error
 
 1. Only staff can delete post of other user's (can I as a normal user delete other's post)
+2. In Some groups need admin approval for joining (is it possible to join group without admin approval)
