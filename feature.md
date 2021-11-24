@@ -16,3 +16,4 @@
 * Profile / Can i edit others profil
 * Can't view private group post / can i view 
 * You need to be group member to post or do anything / can i make a post or do anything without being a user of a group(group public and joinable)
+* While creating group is it possible to find sqli any other bug
