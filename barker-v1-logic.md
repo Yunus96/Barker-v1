@@ -18,5 +18,5 @@
 **There are 3 types of groups in barker v1**
 
 1. Type 1 : Any user can join or view posts
-2. Type 2 : User needs admin approval for joining but **can view post**
-3. Type 3 : User needs admin approval for joining and also to **view post**
+2. Type 2 : User needs admin approval for joining but **can view post** (can a normal user join group without admin approval)
+3. Type 3 : User needs admin approval for joining and also to **view post** (can a normal user join group and view post without admin approval)
